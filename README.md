@@ -4,4 +4,3 @@ Vamos construir uma mini calculadora.
 
 
 coloquei as operações que serão realizadas = { + , - , * , /}
- + - E **
